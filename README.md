@@ -22,6 +22,9 @@ Rest API created with Node.js and Express
 <img align="right" alt="chart" height="200px" src="https://github.com/zhekovdobri/Alexandragloss_Homepage_Fashion/blob/4e8c8bde9f4293ddfe6f6187200f37032aff61cf/assets/img/Homepage_Fashion_language_chart.png">
 </div>
 
+* _Node.js_
+* _Express_
+* _Insomnia_
 * _JavaScript_
 * _HTML_
 * _CSS_
