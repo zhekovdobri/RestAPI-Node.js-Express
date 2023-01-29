@@ -21,8 +21,7 @@ Rest API created with Node.js and Express
 <br />
 
 ## Description
-A simple Rest API, created with Node.js and Express. Open it with VSC. Using cmd or VSC terminal run the application typing:
-*_node ._
+A simple Rest API, created with Node.js and Express.
 
 ## Setup/Installation Requirements
 
