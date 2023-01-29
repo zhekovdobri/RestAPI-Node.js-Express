@@ -6,8 +6,6 @@ Rest API created with Node.js and Express
 ###
 <img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/RestAPI-Node.js-Express/blob/main/POST_request.png?raw=true">
 
-# Alexandragloss_Homepage_Fashion
-
 #### By: Dobri Zhekov
 
 #### JavaScript, HTML5 and CSS3 author homepage design.
