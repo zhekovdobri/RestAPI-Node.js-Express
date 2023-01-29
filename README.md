@@ -1,6 +1,10 @@
 # RestAPI-Node.js-Express
 Rest API created with Node.js and Express
-<img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/zhekovdobri/blob/29397da5ffa867fded395f18c20fda60a0f34236/BootstrapFashion_Project_preview_1200px.gif">
+<img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/RestAPI-Node.js-Express/blob/main/RestAPI-Node-Express.png?raw=true">
+###
+<img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/RestAPI-Node.js-Express/blob/main/Get_request.png?raw=true">
+###
+<img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/RestAPI-Node.js-Express/blob/main/POST_request.png?raw=true">
 
 # Alexandragloss_Homepage_Fashion
 
